@@ -1,0 +1,18 @@
+.odds {
+  background-color: lightpink;
+  font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#first-div {
+  color: blue;
+  font-size: 36px;
+}
+
+.adjust-font-size-24 {
+  font-size: 24px;
+}
+
+#second-div {
+  background-color: lightgreen;
+  font-weight: bold;
+}
